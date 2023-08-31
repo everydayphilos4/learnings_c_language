@@ -1,4 +1,4 @@
-//sum of 2 numbers
+//sum of 2 numbers c program
 #include <stdio.h>
 int main(){
     int a,b,sum;
