@@ -1,4 +1,4 @@
-// calculate average from 25 exam scores
+// calculate average from 25 exam scores entered by user
 #include<stdio.h>
 int main(){
 
