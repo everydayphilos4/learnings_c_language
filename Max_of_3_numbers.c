@@ -1,4 +1,4 @@
-// Max of 3 numbers entered
+// Maximum of 3 numbers entered
 #include <stdio.h>
 int main(){
     int a,b,c,max;
