@@ -1,4 +1,4 @@
-// print sum of  first n mumbers
+// progrom : print sum of  first n mumbers
 #include <stdio.h>
 int main(){
 
