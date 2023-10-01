@@ -1,4 +1,4 @@
-// find even numbers between 9 and 100
+// find the even numbers between 9 and 100
 #include <stdio.h>
 int main(){
 
