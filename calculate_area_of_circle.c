@@ -1,4 +1,4 @@
-// calculate the area of circle
+// calculate area of circle
 #include <stdio.h>
 int main(){
 
