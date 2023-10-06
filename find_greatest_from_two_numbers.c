@@ -1,4 +1,4 @@
-// find greatest from two numbers
+// let's find greatest from two numbers
 #include <stdio.h>
 int main(){
 
