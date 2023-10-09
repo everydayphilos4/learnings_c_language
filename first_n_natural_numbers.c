@@ -1,4 +1,4 @@
-//print first n mumbers
+//print first n mumbers.
 #include <stdio.h>
 int main(){
 
